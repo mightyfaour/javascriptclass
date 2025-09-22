@@ -1,0 +1,6 @@
+Authentication
+
+Definition: The process of verifying who a user is (identity check).
+
+Explanation: Usually done with username & password, tokens, or OAuth.
+Example: Logging into Gmail with your email and password.
